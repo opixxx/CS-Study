@@ -685,6 +685,7 @@ https://tech.kakao.com/posts/351
 ### 레플리케이션(Replication)
 동일한 데이터를 여러 데이터베이스 서버에 복제한다. 주로 읽기 성능을 향상시키기 위해 사용된다.
 
+
 ![3](https://github.com/user-attachments/assets/1c1caabb-1749-463b-82b6-3cb66aa12174)
 
 - Master 에는 쓰기 요청만 반영하고 Slave 에 Replication 을 해서 실제 데이터를 복사한다.
