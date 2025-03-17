@@ -10,6 +10,7 @@ HTTP 는 Hyper Text Transfer Protocol 의 약자이며,  처음에는 서버와 
   - 쿠키, 세션, 토큰 등을 이용해서 `state`를 유지한다.
 ### Connectionless
 **Connectionless** 
+
 <img width="515" alt="image 2" src="https://github.com/user-attachments/assets/552ea289-252b-4320-aa16-0293672ffb9e" />
 
 - 요청을 주고 받을 때만 연결을 유지하고 응답을 주고나면 TCP/IP 연결을 끊는다.
